@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @k-ananthakrishnan
+- 👋 Hi, I’m Ananthakrishnan
 - 👀 I’m interested in almost everything
 - 🌱 I’m currently learning web developement
 - 💞️ I’m looking to collaborate on code
