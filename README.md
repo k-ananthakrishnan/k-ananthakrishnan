@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ananthakrishnan
-- 💻 Currently working as software engineer @ IBS Software 
+- 💻 Currently working as software developer @ IBS Software 
 - 👀 I’m interested in almost everything
 - 🌱 I’m currently learning web developement
 - 💞️ I’m looking to collaborate on software projects
