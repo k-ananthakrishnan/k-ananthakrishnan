@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ananthakrishnan
-- 💻 Currently working as software developer @ IBS Software 
+- 💻 Previously worked as software developer @ IBS Software 
 - 😍 I’m interested in Technology and Human beings
 - 🌱 I’m currently learning Flutter
 - 💞️ I'm looking to contribute on open source projects
