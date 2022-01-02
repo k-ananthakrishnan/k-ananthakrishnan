@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ananthakrishnan
 - 💻 Previously worked as Software Engineer @ IBS Software 
-- 😍 I’m interested in Technology and Human beings
+- 😉 I’m interested in Technology and Human behaviour
 - 🌱 I’m currently learning Flutter
 - 💞️ I'm looking to contribute on open source projects
 
