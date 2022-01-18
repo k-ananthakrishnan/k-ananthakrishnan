@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning Flutter
 - 💞️ I'm looking to contribute on open source projects
 
-
+#
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-ananthakrishnan&count_private=true&show_icons=true&theme=github_dark&hide=issues&hide_border=true)
--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-ananthakrishnan&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+#
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-ananthakrishnan&layout=compact&theme=github_dark&hide_border=true)
 
 
 
