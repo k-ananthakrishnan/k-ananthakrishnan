@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ananthakrishnan
 - 💻 Software Engineer
-- 😉 I’m interested in Technology, Nature and Human behaviour
-- 🌱 I’m currently learning Flutter
-- 💞️ I'm looking to contribute on open source projects
+- 💖 I’m interested in Technology, Nature and Human behaviour
+- 🌱 I’m currently learning
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-ananthakrishnan&count_private=true&show_icons=true&theme=github_dark&hide=issues&hide_border=true)
