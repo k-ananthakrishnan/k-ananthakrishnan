@@ -13,13 +13,13 @@
 <h1> :wave: About Me :</h1>
 
 I am a Full Stack Developer from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Previously worked as a Software Engineer at IBS Software, currently undergoing training at AWS re/Start.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Microservice Architecture.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: When i'm free, I like to read tech articles, make stuff or watch sci-fi movies.
 
-- :mailbox:Want to know more? reach me at: [![Linkedin Badge](https://img.shields.io/badge/-ananthakrishnan-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/ananthakrishnan-k-80087212b)
+- :mailbox:Want to know more? reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Ananthakrishnan K-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/ananthakrishnan-k-80087212b)
 <!--
 👋 Hi, I’m Ananthakrishnan
 💻 Software Engineer
