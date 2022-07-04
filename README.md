@@ -33,7 +33,7 @@ I am a Full Stack Developer from India.
   <a href="https://www.linkedin.com/in/ananthakrishnan-k-80087212b">
     <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
   </a>
-  <a href="g.dev/ananthakrishnan">
+  <a href="https://developers.google.com/profile/u/Ananthakrishnan">
     <img src="https://img.shields.io/badge/Google-white?logo=google&logoColor=red" alt="Google Badge"/>
   </a>
   <a href="https://twitter.com/ananth__krish">
