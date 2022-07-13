@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="50%"/>
+  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width=80%/>
 </div>
 
 <!--<img src="https://komarev.com/ghpvc/?username=k-ananthakrishnan&style=flat-square&color=blue" alt=""/>
