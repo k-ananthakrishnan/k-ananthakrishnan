@@ -13,7 +13,7 @@
 <h1> :wave: About Me :</h1>
 
 I am a Full Stack Developer from India.
-- :telescope: Previously worked as a Software Engineer at IBS Software, currently undergoing training at AWS re/Start.
+- :telescope: Senior Systems Engineer, previously worked as a Software Engineer at IBS Software, AWS re/Start graduate.
 
 - :seedling: Exploring Microservice Architecture with spring boot.
 
